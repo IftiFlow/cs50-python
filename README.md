@@ -3,9 +3,9 @@
 My personal solutions and notes for the Harvard CS50P course.
 
 ## Progress Tracker
-- [x] Week 0: Functions, Variables 🔄 (In Progress)
-- [ ] Week 1: Conditionals  
-- [ ] Week 2: Loops
+- [x] Week 0: Functions, Variables 
+- [x] Week 1: Conditionals  
+- [ ] Week 2: Loops 🔄 (In Progress)
 - [ ] Week 3: Exceptions
 - [ ] Week 4: Libraries
 - [ ] Week 5: Unit Tests
