@@ -8,8 +8,8 @@ My personal solutions and notes for the Harvard CS50P course.
 - [x] Week 2: Loops 
 - [x] Week 3: Exceptions 
 - [x] Week 4: Libraries 
-- [ ] Week 5: Unit Tests 🔄 (In Progress)
-- [ ] Week 6: File I/O
+- [x] Week 5: Unit Tests 
+- [ ] Week 6: File I/O 🔄 (In Progress)
 - [ ] Week 7: Regular Expressions
 - [ ] Week 8: Object-Oriented Programming
 - [ ] Week 9: Et Cetera
